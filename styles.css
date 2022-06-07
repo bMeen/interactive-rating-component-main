@@ -105,11 +105,6 @@ li {
   color: var(--white);
 }
 
-li:hover {
-  color: var(--white);
-  background-color: var(--light-grey);
-}
-
 #rating-section button {
   font-size: 1.05rem;
   text-align: center;
